@@ -2,4 +2,4 @@ Registro de actividades realizadas en la guía de Git y GitHub.
 Autor: Dennis González
 Fecha: 26/10/2025
 
-# Cambios en la rama diseno-pagina-inicial
+# Cambios en la rama diseno-pagina-inicialgit 
